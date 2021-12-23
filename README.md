@@ -13,3 +13,4 @@ SQL NOTES
   desc lightningzero
 ```
 <img src='img/create_table.png'>
+
