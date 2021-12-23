@@ -11,3 +11,4 @@ SQL NOTES
     column_address varchar(50)
   );
 ```
+<img src='img/create_table.png'>
