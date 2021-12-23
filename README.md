@@ -10,5 +10,6 @@ SQL NOTES
     dob date,
     address varchar(50)
   );
+  desc lightningzero
 ```
 <img src='img/create_table.png'>
