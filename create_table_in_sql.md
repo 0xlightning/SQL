@@ -1,6 +1,3 @@
-# SQL
-SQL NOTES
-
 ## create table in sql
 ```
   create table lightningzero
