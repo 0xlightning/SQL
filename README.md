@@ -36,3 +36,4 @@
 ```
   insert into lightningzero values ('lightning zero',00,'05-23-2002','CBE');
 ```
+<img src='img/inserting_values.png'>
