@@ -3,8 +3,17 @@
 ## TOPIC'S AND SOLUTION 💛
 <hr>
 
-<strong>
-  
-- create table in sql -[link](create_table_in_sql.md)
-
-</strong>
+**
+## create table in sql
+```
+  create table lightningzero
+  (
+    full_name varchar(10),
+    reg_no int,
+    dob date,
+    address varchar(50)
+  );
+  desc lightningzero
+```
+<img src='img/create_table.png'>
+**
