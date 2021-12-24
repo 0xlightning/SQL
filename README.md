@@ -3,7 +3,6 @@
 ## TOPIC'S AND SOLUTION 💛
 <hr>
 
-**
 ## create table in sql
 ```
   create table lightningzero
@@ -16,4 +15,3 @@
   desc lightningzero
 ```
 <img src='img/create_table.png'>
-**
