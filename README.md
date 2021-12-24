@@ -28,7 +28,7 @@
   **Output**
   <br>
 <img src='img/create_table.png'>
-<hr>
+
 ## insert values into the table 
   **Syntax**
 ```
