@@ -26,6 +26,7 @@
   desc lightningzero
 ```
   **Output**
+  <br>
 <img src='img/create_table.png'>
 
 ## insert values into the table 
@@ -38,4 +39,5 @@
   insert into lightningzero values ('lightning zero',00,'05-23-2002','CBE');
 ```
   **Output**
+  <br>
 <img src='img/inserting_values.png'>
