@@ -43,7 +43,7 @@
   <br>
 <img src='img/inserting_values.png'>
 
-## updating values
+## updating values for single user
   **Syntax**
 ```
   update <table_name> set <Column_1_value>='<value1>' where <Column_2_value>='<specific_value_for_this_user>';
