@@ -63,5 +63,5 @@ update <table_name> set <Column_1_value>='<value1>';
 ```
   **Example**
 ```
-update lightningzero set address='Chennai';
+update lightningzero set blood_group='B+';
 ```
