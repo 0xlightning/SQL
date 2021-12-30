@@ -55,3 +55,13 @@ update lightningzero set address='Chennai' where reg_no=02;
   **Output**
   <br>
 <img src='img/update_table.png'>
+
+## updating values for all user
+  **Syntax**
+```
+update <table_name> set <Column_1_value>='<value1>';
+```
+  **Example**
+```
+update lightningzero set address='Chennai';
+```
