@@ -43,7 +43,7 @@ insert into lightningzero values ('lightning zero',00,'05-23-2002','CBE');
   <br>
 <img src='img/inserting_values.png'>
 
-## updating values for single user
+## updating values for single values in column
   **Syntax**
 ```
 update <table_name> set <Column_1_value>='<value1>' where <Column_2_value>='<specific_value_for_this_user>';
@@ -56,7 +56,7 @@ update lightningzero set address='Chennai' where reg_no=02;
   <br>
 <img src='img/update_table.png'>
 
-## updating values for all user
+## updating values for a column
   **Syntax**
 ```
 update <table_name> set <Column_1_value>='<value1>';
