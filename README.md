@@ -3,7 +3,7 @@
 ## TOPIC'S AND SOLUTION 💛
 <hr>
 
-## create table 
+## create table and descending
   **Syntax**
 ```
     create table <table_name>
@@ -13,6 +13,7 @@
     Column_name date,         // date 'mm-dd-yyyy'
     Column_name varchar(50),  
   );
+  desc <table_name> //
 ```
   **Example**
 ```
