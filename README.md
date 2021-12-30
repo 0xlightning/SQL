@@ -42,3 +42,16 @@
   **Output**
   <br>
 <img src='img/inserting_values.png'>
+
+## updating values
+  **Syntax**
+```
+  update <table_name> set <Column_1_value>='<value1>' where <Column_2_value>='<specific_value_for_this_user>';
+```
+  **Example**
+```
+  update lightningzero set address='Chennai' where reg_no=02;
+```
+  **Output**
+  <br>
+<img src='img/update_table.png'>
