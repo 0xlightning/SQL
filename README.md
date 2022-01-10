@@ -8,12 +8,12 @@
 ```
 create table <table_name>
 (
-  Column_name varchar(10),  // varchar for number of input into the box
-  Column_name int,          // int for only numbers into the box 
-  Column_name date,         // date 'mm-dd-yyyy'
+  Column_name varchar(10),  /* varchar for number of input into the box */
+  Column_name int,          /* int for only numbers into the box */
+  Column_name date,         /* date 'mm-dd-yyyy' */
   Column_name varchar(50),  
 );
-desc <table_name> // DESC command is used to sort the data returned in descending order
+desc <table_name> /* DESC command is used to sort the data returned in descending order */
 ```
   **Example**
 ```
