@@ -33,7 +33,7 @@ desc lightningzero
 ## insert values into the table 
   **Syntax**
 ```
-insert into <table_name> values (<Column_1_value>,<Column_2_value>,<Column_3_value>,<Column_4_value>,...);
+insert into <table_name> values (<Column_1_value>,<Column_2_value>,<Column_3_value>,<Column_4_value>);
 ```
   **Example**
 ```
